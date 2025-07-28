@@ -41,8 +41,7 @@ This finding suggests that users who are either already fit or who quickly see i
 ---
 
 ## Interactive Dashboard  
-An interactive version of these findings can be explored on Tableau Public:  
-[Link to your dashboard]
+An interactive version of these findings can be explored on Tableau Public [here](https://public.tableau.com/app/profile/thomas.trainor.gilham6741/viz/RunnaRetentionAnalysis/RunnaDashboard?publish=yes)
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![dashboard img](https://github.com/ThomasTGilham/runna-retention-analysis/blob/main/Runna%20Dashboard%20Screenshot.png?raw=true)
 
