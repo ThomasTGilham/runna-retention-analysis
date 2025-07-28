@@ -1,8 +1,6 @@
 # Analysis of Runner Personas & Retention Drivers  
 *A proactive analysis project for the Data Analyst role at Runna.*
 
----
-
 ## Project Goal  
 To understand the distinct behaviors of different runner archetypes and identify key early indicators of long-term user retention.
 
